@@ -8,6 +8,7 @@ r.random()
 0.9617124125958074
 
 r.random(0 , 20)
+r.random(0 , 100)
 Traceback (most recent call last):
   File "<pyshell#7>", line 1, in <module>
     r.random(0 , 10)
